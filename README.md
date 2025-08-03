@@ -67,7 +67,7 @@ Deploy and test via Telegram
 
 ## 👨‍💻 Author
 
-Rajarshya Singh Mahal
-Built during the IIT Jammu Summer Internship Program
-Email: rajarshyasingh@gmail.com
+- Rajarshya Singh Mahal
+- Built during the IIT Jammu Summer Internship Program
+- Email: rajarshyasingh@gmail.com
 
