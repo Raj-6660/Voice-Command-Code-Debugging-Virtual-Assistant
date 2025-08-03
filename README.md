@@ -10,9 +10,9 @@ Voice & Text Input Handling: Dynamically routes input based on message type.
 
 AI Agent: Processes user queries using OpenAI Chat Model with contextual memory.
 
-Voice-to-Text: Transcribes voice messages using OpenAI API.
+Voice-to-Voice: Transcribes voice messages using OpenAI API and replies back in the form of audio.
 
-Text-to-Speech: Converts responses into audio and sends them back via Telegram.
+Text-to-Text: Converts audio reponses into text chats and send them back via telegram.
 
 ## 🧠 Workflow Breakdown
 
