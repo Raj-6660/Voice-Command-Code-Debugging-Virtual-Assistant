@@ -1,6 +1,7 @@
 # Voice Command Code Debugging Virtual Assistant
 
 An AI-powered Telegram bot workflow built using n8n that enables users to send voice or text messages to an assistant for help with code debugging. The assistant processes the input using OpenAI's API and responds with either a text reply or a generated audio response.
+[Video Explanation of the Project](https://drive.google.com/file/d/1H_7-KmDFUaSv-cvGRXnkefz4HbjqVu7n/view?usp=sharing)
 
 ## 🚀 Features
 
